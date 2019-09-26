@@ -1,1 +1,1 @@
-web: scrapyd
+web: python init.py; scrapyd
