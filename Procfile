@@ -1,1 +1,1 @@
-web: bash start.sh; scrapyd
+web: scrapyd
