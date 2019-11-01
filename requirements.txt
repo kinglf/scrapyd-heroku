@@ -1,6 +1,0 @@
-pip
-scrapy
-scrapyd
-scrapy-redis
-logparser
-Twisted==18.9.0
